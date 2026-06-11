@@ -1,0 +1,21 @@
+id,name,category,color,price,size,in_stock
+1,Classic Denim Jacket,jacket,blue,49.99,M,true
+2,Red Puffer Jacket,jacket,red,89.99,L,true
+3,White Linen Shirt,shirt,white,29.99,S,true
+4,Black Formal Trousers,trousers,black,59.99,M,true
+5,Floral Summer Dress,dress,multicolor,39.99,S,true
+6,Grey Hoodie,hoodie,grey,34.99,XL,true
+7,Navy Blue Chinos,trousers,navy,44.99,M,false
+8,Green Cargo Pants,trousers,green,54.99,L,true
+9,Pink Crop Top,top,pink,19.99,S,true
+10,Brown Leather Jacket,jacket,brown,129.99,M,true
+11,Yellow Raincoat,jacket,yellow,74.99,L,false
+12,Striped Polo Shirt,shirt,blue,24.99,M,true
+13,Black Mini Skirt,skirt,black,29.99,S,true
+14,Beige Trench Coat,coat,beige,149.99,M,true
+15,Red Sneakers,shoes,red,59.99,42,true
+16,White Running Shoes,shoes,white,89.99,41,true
+17,Blue Jeans,jeans,blue,49.99,32,true
+18,Orange Sweatshirt,sweatshirt,orange,39.99,L,true
+19,Purple Scarf,accessory,purple,14.99,one-size,true
+20,Black Handbag,accessory,black,79.99,one-size,true
